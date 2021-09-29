@@ -1,0 +1,19 @@
+body {
+    width: 250px;
+    height: 280px;
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 12px;
+    font-size: 22px;
+    font-weight: bold;
+    color: ##FF0800;
+    border-radius: 6px;
+    border: 1px solid black;
+    padding: 10px;
+}
